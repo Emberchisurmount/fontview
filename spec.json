@@ -1,0 +1,50 @@
+{
+    "name":  "fontview",
+    "logo":  "🔤",
+    "exe":  "FontView.exe",
+    "desc":  "Free, open-source font viewer for Windows — preview, compare and manage installed fonts offline. 100 MB portable, no ads, MIT.",
+    "topics":  [
+                   "font-viewer",
+                   "font-manager",
+                   "typography",
+                   "design-tools",
+                   "nexusfont-alternative",
+                   "fontviewok-alternative",
+                   "fonts",
+                   "windows",
+                   "windows-10",
+                   "windows-11",
+                   "csharp",
+                   "dotnet",
+                   "font-preview",
+                   "glyph-viewer",
+                   "ui-design",
+                   "portable",
+                   "open-source",
+                   "mit-license"
+               ],
+    "features":  [
+                     "✅ **Grid preview of everything** — all installed fonts rendered with your sample text, no clicking one by one",
+                     "✅ **Custom sample text** — type the actual project string so you judge real copy, not a pangram",
+                     "✅ **Compare mode** — up to four fonts side by side at identical sizes for close calls",
+                     "✅ **Glyph browser** — full character map per font including Cyrillic, Greek and symbols coverage",
+                     "✅ **Filter and sort** — narrow by weight, width, serif or script; sort by family or install date",
+                     "✅ **Install and remove** — mount a folder of font files for preview and install selectively",
+                     "✅ **100 MB self-contained exe** — runtime bundled, portable, offline, MIT with SHA-256 releases"
+                 ],
+    "compare":  [
+                    "| Feature | **fontview** | NexusFont | FontViewOK | Windows Preview |",
+                    "|---|:---:|:---:|:---:|:---:|",
+                    "| Price | **Free, MIT** | Free | Free | Built-in |",
+                    "| Open source | **Yes** | No | No | No |",
+                    "| Custom sample text in grid | **Yes** | Yes | Partial | One line |",
+                    "| Four-font compare mode | **Yes** | Partial | No | No |",
+                    "| Glyph coverage browser | **Yes** | Yes | No | No |",
+                    "| Portable, no install | **Yes, 100 MB** | Installer | Zip | With OS |"
+                ],
+    "faqQ":  "how to preview all fonts on Windows quickly?",
+    "faqA":  "Windows font preview opens one file at a time behind three dialogs, which is unusable when picking a pairing from 300 installed families. fontview tiles every font with your own sample text, compares finalists side by side, and shows glyph coverage before you commit. It is a 100 MB portable exe, MIT, offline with no ads.",
+    "s1":  "Dark type grid (#121417, violet #A78BFA): six font tiles per row rendering the sample text, size slider at 28 px, filter chips serif and sans.",
+    "s2":  "Compare mode: four columns with the same sentence, spacing and weight labels above, winner star on the second column.",
+    "s3":  "Glyph browser: character table for the selected font, Cyrillic block complete, missing glyphs grayed, install button bottom right."
+}
